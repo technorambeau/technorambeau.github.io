@@ -13,9 +13,9 @@ if( headers_sent() ) {
 ?>
 <html>
 <head>
-<?php echo('<meta http-equiv="Refresh" content="0; url=http://s.rambeau.free.fr/'.$redirecturl.'">'); ?>
+<?php echo('<meta http-equiv="Refresh" content="0; url=https://s.rambeau.free.fr/'.$redirecturl.'">'); ?>
 </head>
-<body><p style="text-align:center"><br><br><b><a href="http://s.rambeau.free.fr/index.html">Erreur</a></body></html>
+<body><p style="text-align:center"><br><br><b><a href="https://s.rambeau.free.fr/index.html">Erreur</a></body></html>
 <?php
-} else exit( header( "Location: http://s.rambeau.free.fr/" . $redirecturl ) );
+} else exit( header( "Location: https://s.rambeau.free.fr/" . $redirecturl ) );
 ?>

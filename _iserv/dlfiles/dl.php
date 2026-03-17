@@ -15,7 +15,7 @@ $ordersdir 		= '../twsc/data/';
 $downloaddir 	= '../../_downloads/';	
 $buffersize		= 8 * 1024;				
 $authorized_ext = null; 				
-$is_https		= false;			
+$is_https		= true;			
 $errorpages   	= array( "_message.html?=4jdpR2L84jdpR2L84jcixjPyJGP+A3L8EDIlR2bjBicvJncF5Dc84jIhJXYw1yd0JSPzNXYsNGI2lGZ84TMo9CPu4iL05WZtV2ZyFGajBSZkBycyV3bjBibF5TMoxjPiIXZ05WZjpjbnlGbh1Cd4VGdi0TZslHdzBidpRGP","_message.html?=4jdpR2L84jdpR2L84jcixjPyJGP+A3L8IDIlR2bjBicvJncF5Dc84jIhJXYw1yd0JSPzNXYsNGI2lGZ84TMo9CPu4iL05WZtV2ZyFGajBSZkBycyV3bjBibF5TMoxjPiIXZ05WZjpjbnlGbh1Cd4VGdi0TZslHdzBidpRGP","_message.html?=4jdpR2L84jdpR2L84jcixjPyJGP+A3L8MDIlR2bjBicvJncF5Dc84jIhJXYw1yd0JSPzNXYsNGI2lGZ84TMo9CPu4iL05WZtV2ZyFGajBSZkBycyV3bjBibF5TMoxjPiIXZ05WZjpjbnlGbh1Cd4VGdi0TZslHdzBidpRGP","_message.html?=4jdpR2L84jdpR2L84jcixjPyJGP+A3L8QDIlR2bjBicvJncF5Dc84jIhJXYw1yd0JSPzNXYsNGI2lGZ84TMo9CPu4iL05WZtV2ZyFGajBSZkBycyV3bjBibF5TMoxjPiIXZ05WZjpjbnlGbh1Cd4VGdi0TZslHdzBidpRGP","_message.html?=4jdpR2L84jdpR2L84jcixjPyJGP+A3L8UDIlR2bjBicvJncF5Dc84jIhJXYw1yd0JSPzNXYsNGI2lGZ84TMo9CPu4iL05WZtV2ZyFGajBSZkBycyV3bjBibF5TMoxjPiIXZ05WZjpjbnlGbh1Cd4VGdi0TZslHdzBidpRGP","_message.html?=4jdpR2L84jdpR2L84jcixjPyJGP+A3L8YDIlR2bjBicvJncF5Dc84jIhJXYw1yd0JSPzNXYsNGI2lGZ84TMo9CPu4iL05WZtV2ZyFGajBSZkBycyV3bjBibF5TMoxjPiIXZ05WZjpjbnlGbh1Cd4VGdi0TZslHdzBidpRGP","_message.html?=4jdpR2L84jdpR2L84jcixjPyJGP+A3L8cDIlR2bjBicvJncF5Dc84jIhJXYw1yd0JSPzNXYsNGI2lGZ84TMo9CPu4iL05WZtV2ZyFGajBSZkBycyV3bjBibF5TMoxjPiIXZ05WZjpjbnlGbh1Cd4VGdi0TZslHdzBidpRGP","_message.html?=4jdpR2L84jdpR2L84jcixjPyJGP+A3L8gDIlR2bjBicvJncF5Dc84jIhJXYw1yd0JSPzNXYsNGI2lGZ84TMo9CPu4iL05WZtV2ZyFGajBSZkBycyV3bjBibF5TMoxjPiIXZ05WZjpjbnlGbh1Cd4VGdi0TZslHdzBidpRGP" );  		 
 $max_downloads = -1;
 $max_period = -1;						
